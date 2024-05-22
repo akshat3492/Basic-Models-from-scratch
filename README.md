@@ -1,2 +1,1 @@
-# KNN_From_Scratch
-Implemented KNN algorithm from scratch on a sample dataset.
+Implemented basic machine learning algorithm from scratch on a sample datasets.
